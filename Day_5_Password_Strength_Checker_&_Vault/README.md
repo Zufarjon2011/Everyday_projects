@@ -1,0 +1,3 @@
+This application lets users store passwords securely (hashed), check their strength, and manage entries from the terminal. .This is a command-line Password Vault and Strength Checker written in Python.
+It allows users to save website credentials securely using hashing and evaluates password strength before storage.
+All data is stored locally in an encrypted-style hash format inside a single JSON file.
